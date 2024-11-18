@@ -36,17 +36,9 @@ The AVL, for example, will be used to efficiently manage and maintain the store'
 Graphs has been used in the project to show the areas where the parcel can be delivered. Graphs are represented through adjacency matrix.
 
 
-
-
-
-![](/images/11.png)
-
-
 •	Graphs:
 
 Graphs has been used in the project to show the areas where the parcel can be delivered. Graphs are represented through adjacency matrix.
-
-
 
 
 •	Dijkstra’s algorithm:
@@ -57,9 +49,6 @@ Reason
 
 This algorithm is often used in routing and as a subroutine in other graph algorithms. The nodes are represented as cities and this algorithm helps to provide the distance between cities.
 
-
-![](/images/33.png)
-
 •	Prim’s algorithm:
 
 Prim's algorithm can be used to find the minimum spanning tree of a graph. So, it provides the distances between areas in a city.
@@ -69,29 +58,3 @@ Reason
 Prims is used between areas in a city. The reason for using this is that we wanted to give discount to user  and previous distance is not used. The key idea behind Prim's algorithm is that at each step, we are adding a vertex to the tree that is connected to the tree by the minimum-weight edge. This ensures that the tree will have the minimum total weight of any spanning tree that can be formed from the graph.
 
 
-![](/images/22.png)
-
-## Product menu:
-![](/images/44.png)
-
-## Maps
-
-1.Country
-
-![](/images/55.png)
-
-2.Islamabad
-
-![](/images/66.png)
-
-3.Abbotabad
-
-![](/images/99.png)
-
-4.Lahore
-
-![](/images/77.png)
-
-5.Karachi
-
-![](/images/88.png)
