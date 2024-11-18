@@ -36,11 +36,6 @@ The AVL, for example, will be used to efficiently manage and maintain the store'
 Graphs has been used in the project to show the areas where the parcel can be delivered. Graphs are represented through adjacency matrix.
 
 
-•	Graphs:
-
-Graphs has been used in the project to show the areas where the parcel can be delivered. Graphs are represented through adjacency matrix.
-
-
 •	Dijkstra’s algorithm:
 
 Dijkstra's algorithm is used to implement efficient searching and navigation within the system. Dijkstra's algorithm is a shortest path algorithm that can be used to find the shortest path between two nodes in a graph. The nodes are represented as cities and this algorithm helps to provide the distance between cities.
